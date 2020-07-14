@@ -8,6 +8,7 @@ The configuration is optimized to create a high performance, secure PHP-FPM conf
 
 # Run
 Here is a simple run command:
+
     bash <(curl -f -L -sS https://raw.githubusercontent.com/p-w/versandgigant-php-fpm-opcache/master/setup.sh)
 
 # References
