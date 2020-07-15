@@ -24,6 +24,10 @@ and using plugins like
 * https://de.wordpress.org/plugins/nginx-helper/
 
 
+## Contributing
+
+Contributions are welcome from everyone.
+
 ## License
 
 This plugin is Free Software, released and licensed under the **GPL-V3.0** - see the [LICENSE](LICENSE) file for details
