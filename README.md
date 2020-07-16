@@ -1,15 +1,18 @@
 # versandgigant-php-fpm-opcache
 Versandgigant php-fpm Opcache for Ubuntu Linux and nginx
 
+
 # Overview
 This script configures a php-fpm installation to use opcache and set the configuration based on your local environment and resources.
 
 The configuration is optimized to create a high performance, secure PHP-FPM configuration.
 
+
 # Run
 Here is a simple run command:
 
     bash <(curl -f -L -sS https://raw.githubusercontent.com/p-w/versandgigant-php-fpm-opcache/master/setup.sh)
+
 
 # References
 
@@ -27,6 +30,7 @@ and using plugins like
 ## Contributing
 
 Contributions are welcome from everyone.
+
 
 ## License
 
